@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**Mahtot/Mahtot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I’m Mahtot, an IT student at Mekelle Institute of Technology with a focus on Frontend Development and a passion for AI.
+
 
 Here are some ideas to get you started:
 
